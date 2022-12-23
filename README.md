@@ -6,7 +6,7 @@ Collection of BeamMP Mod examples pulled from the [BeamMP Discord](https://disco
 
 | Client                        | Server | Client & Server           |
 |-------------------------------|--------|---------------------------|
-| [Imgui (UI) Example](/examples/imguiExample/)            |        | Client Server Interaction |
+| [Imgui (UI) Example](/examples/imguiExample/)            |        | [Client Server Interaction](/examples/examplePluginResources/) |
 | [Input Blocker](/examples/inputBlocker/)                 |        |                           |
 | [set Client Settings](/examples/setClientSettings/)           |        |                           |
 | [Cobalt Radar (UI Mod Example)](/examples/CobaltRadar/) |        |                           |
