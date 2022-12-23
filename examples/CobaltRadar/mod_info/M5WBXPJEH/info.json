@@ -1,0 +1,45 @@
+{
+    "attachments": [],
+    "resource_id": 17576,
+    "current_version_id": 31196,
+    "download_count": 0,
+    "resource_version_id": 34530,
+    "version_string": "1.2",
+    "last_update": 1618301522,
+    "rating_avg": 5,
+    "rating_count": 0,
+    "rating_sum": 0,
+    "resource_category_id": 10,
+    "resource_date": 1617877475,
+    "review_count": 5,
+    "tag_line": "See who's around from a bird's eye view.",
+    "update_count": 1,
+    "path": "M5WBXPJEH\/31196\/",
+    "filename": "CobaltRadar.zip",
+    "title": "Cobalt Radar",
+    "user_id": 223159,
+    "username": "Preston Elam",
+    "tagid": "M5WBXPJEH",
+    "message": "[FONT=Verdana][SIZE=7][COLOR=rgb(0, 89, 179)]Cobalt Radar[\/COLOR][\/SIZE]\n[IMG]https:\/\/cdn.discordapp.com\/attachments\/237119964824207361\/829468878798848030\/app.png[\/IMG]\n[HR][\/HR]Shows an overhead depiction of your car and who's around you, most useful in tight, first person racing.\n[IMG]https:\/\/cdn.discordapp.com\/attachments\/237119964824207361\/829521816288100373\/unknown.png[\/IMG]\n[SIZE=2](Track is Laguna Seca)[\/SIZE]\n[HR][\/HR]Here's a video if it in use!\n[MEDIA=youtube]RqP9y-OQdnk[\/MEDIA]\n[\/FONT]\nBig Thanks to Deer\/Tventy for fixing the mod for 1.2 as I was pretty burnt out seeing as I hate UI\/JS and all of my UI was bricked; I really didn't have the patience to open up the code and even check, so once again, thanks a ton to Tventy for fixing it!\n[FONT=Verdana][\/FONT]\n[CENTER][HR][\/HR][SIZE=5][COLOR=rgb(255, 128, 0)]Usage in BeamMP[\/COLOR][\/SIZE][\/CENTER]\n[SIZE=4]You are fully allowed to use this mod in [URL='https:\/\/beammp.com\/']BeamMP[\/URL] as I literally made the mod for a larger sim racing mod in MP, I just have two smaller requests, if you use this on a server, please subscribe to the original post on the forum so I look good and try to keep the version on your server relatively up-to-date.\n[HR][\/HR]If you need to reach-out to me, I'm in both the [URL='https:\/\/beammp.com\/']BeamMP[\/URL] discord, and the offical BeamNG discord, my DMS are open and my @ is [B]Preston#3615[\/B][\/SIZE]",
+    "category_title": "",
+    "prefix_title": "Beta",
+    "via": "packed by repo on Mon, 06 Sep 2021 06:00:50 GMT",
+    "hashes": [
+        [
+            "lua\/vehicle\/extensions\/auto\/CobaltRadar.lua",
+            "09950d1bb2a754bf"
+        ],
+        [
+            "ui\/modules\/apps\/CobaltRadar\/app.js",
+            "b655173d75ccdb1f"
+        ],
+        [
+            "ui\/modules\/apps\/CobaltRadar\/app.png",
+            "c710ac0a450e3f28"
+        ],
+        [
+            "ui\/modules\/apps\/CobaltRadar\/app.json",
+            "4ad8eb41c2a51ce5"
+        ]
+    ]
+}

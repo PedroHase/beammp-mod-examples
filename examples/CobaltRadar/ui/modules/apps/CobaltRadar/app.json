@@ -1,0 +1,19 @@
+{
+  "domElement": "<cobalt-radar></cobalt-radar>",
+  "name": "Cobalt Radar",
+  "types": [
+    "ui.apps.categories.vehicle_info",
+    "ui.apps.categories.info",
+    "ui.apps.categories.racing"
+  ],
+  "description": "Shows an overhead/helicopter depiction of your car and who's around you, most useful in tight, first person racing.",
+  "css": {
+    "left":"760px",
+    "height": "360px",
+    "bottom": "0px",
+    "width": "400px"
+  },
+  "author": "Preston (CobaltTetra)",
+  "version": "0.1",
+  "directive": "cobaltRadar"
+}
